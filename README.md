@@ -1,4 +1,4 @@
-<img width="477" height="572" alt="image" src="https://github.com/user-attachments/assets/5cf2df11-bf67-4aa6-8447-2df5bdbf182f" /># Password Strength Analyzer
+# Password Strength Analyzer
 
 Консольное приложение для анализа стойкости паролей.
 
