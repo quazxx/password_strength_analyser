@@ -1,4 +1,4 @@
-# Password Strength Analyzer
+# Password Strength Analyser
 
 Консольное приложение на Python для анализа стойкости паролей.
 
@@ -26,8 +26,8 @@
 ## Установка
 
 ### Клонируйте репозиторий:
-git clone https://github.com/quazxx/password_strength_analyser.git
-cd password_strength_analyzer
+git clone https://github.com/quazxx/password_strength_analyser.git, далее 
+cd password_strength_analyser
 
 ### Создайте виртуальное окружение:
 python -m venv .venv
