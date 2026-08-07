@@ -1,4 +1,4 @@
-# Password Strength Analyzer
+<img width="477" height="572" alt="image" src="https://github.com/user-attachments/assets/5cf2df11-bf67-4aa6-8447-2df5bdbf182f" /># Password Strength Analyzer
 
 Консольное приложение для анализа стойкости паролей.
 
@@ -34,22 +34,8 @@ python main.py'''
 
 ## Пример результата
 
-Введите пароль: dwwiwhb2345_+_=wuu
+<img width="477" height="572" alt="image" src="https://github.com/user-attachments/assets/d06f5cf2-c021-4a97-bb34-04b208c7686d" />
 
-────────────────────────────────────────────────
-АНАЛИЗ
-────────────────────────────────────────────────
-Длина:                   18
-Строчные буквы:           YES
-Заглавные буквы:          NO
-Цифры:                    YES
-Спецсимволы:              YES
-Повторения:               NO
-Последовательности:       YES
-Распространённый:         NO
-
-Оценка:                  5/10
-Уровень:                 Средний
 
 ────────────────────────────────────────────────
 РЕКОМЕНДАЦИИ
