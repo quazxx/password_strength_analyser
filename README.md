@@ -53,12 +53,14 @@ python main.py
 <img width="491" height="574" alt="image" src="https://github.com/user-attachments/assets/267dcbbb-3052-4b84-b02f-81d07281c820" />
 
 ## Структура проекта
+text```
 password-strength-analyzer/
 ├── main.py
 ├── analyser.py
 ├── common_passwords.txt
 ├── README.md
 └── .gitignore
+```
 
 main.py — запуск программы и взаимодействие с пользователем.
 analyser.py — основная логика анализа пароля.
